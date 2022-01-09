@@ -14,7 +14,8 @@ This repo provides reference implementation and listening samples of **Foster St
 
 > Submitted to ICASSP 2022
 
-##
+## Code
+![Main Architecture](pics/main.png)
 The code will be released recently.
 
 ## References
