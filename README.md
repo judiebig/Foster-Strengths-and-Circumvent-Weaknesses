@@ -20,7 +20,7 @@ Recent single-channel speech enhancement methods usually convert waveform to the
 The code will be released recently.
 
 ## References
-Our paper can be found on Arxiv:
+Our paper can be found on Arxiv now:
 ```bib
 @article{tai2021foster,
   title={Foster Strengths and Circumvent Weaknesses: a Speech Enhancement Framework with Two-branch Collaborative Learning},
